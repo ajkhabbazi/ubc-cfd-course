@@ -18,7 +18,7 @@ Arash J. Khabbazi
 
 ## Overview
 
-This repository contains coursework from the Computational Fluid Dynamics course at the University of British Columbia. Projects are organized into two tracks:
+Coursework from the Computational Fluid Dynamics course at the University of British Columbia, organized into two tracks:
 
 - **`openfoam/`** — Six simulation studies solved with OpenFOAM (icoFoam, rhoCentralFoam, simpleFoam), covering laminar and turbulent flows, compressible nozzle flow, and airfoil analysis. Post-processing is performed in ParaView with Python plotting scripts.
 - **`python/`** — Three Python implementations of numerical methods: finite-volume discretisation of the 2D Poisson equation, iterative solvers (Jacobi, Gauss-Seidel, SOR) for steady-state heat conduction, and explicit finite-difference schemes for the inviscid Burgers' equation.
